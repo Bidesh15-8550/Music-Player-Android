@@ -1,11 +1,11 @@
 # Music-Player-Android
-Description
+Description-
 Plays only MP3 and WAV type audio musics. Its simple to use. 
 
 
 
-Key Features
-Plays music •
+Key Features-
+Plays music
 MP3 
 WAV 
 Read from Internal storage 
@@ -18,7 +18,7 @@ Day theme available!
 
 
 
-Keywords
+Keywords-
 Song, Music, Songs, Audio, Player 
 
 Get the app on-
